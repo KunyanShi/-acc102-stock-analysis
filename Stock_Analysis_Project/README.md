@@ -11,3 +11,10 @@ This project aims to provide retail investors with an intuitive tool for analysi
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+2. Launch the application:
+streamlit run app.py
+```
+## Notes
+
+This dashboard uses simulated stock data based on real price ranges, created for academic demonstration purposes only. It does not constitute financial advice.
